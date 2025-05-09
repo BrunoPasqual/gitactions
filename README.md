@@ -1,1 +1,1 @@
-Alteração para commit 2
+Alteração para dar conflito
