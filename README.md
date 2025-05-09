@@ -1,3 +1,3 @@
 Alteração para dar conflito
 
-Alteração no arquivo para simular correção de bug
+Alteração no arquivo para simular correção de bug 
